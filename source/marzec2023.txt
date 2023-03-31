@@ -1,0 +1,2 @@
+2020-03-01 | 9:00 pisanie foo 9:45 Daili; 11:00 pisanie bar; 14:00 pisanie foo bar; 15:00 pisanie hello world;
+2020-03-02 | 9:00 pisanie hello world; 9:45 Daili; 10:15 pisanie bar; 11:00 pisanie foo; 14:00 deploy systemu;
